@@ -11,3 +11,4 @@ langchain-chroma
 langchain-huggingface
 google-genai
 psycopg[binary]
+email-validator
