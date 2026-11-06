@@ -1,0 +1,12 @@
+fastapi 
+uvicorn 
+sqlalchemy 
+psycopg2-binary 
+python-dotenv
+chromadb 
+sentence-transformers 
+pypdf
+langchain-text-splitters
+langchain-chroma 
+langchain-huggingface
+google-genai
